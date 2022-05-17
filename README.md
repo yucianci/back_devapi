@@ -1,7 +1,7 @@
 # Desafio DevApi - Back-end com NodeJS
 
 <p align="center">
-[Nest](https://github.com/nestjs/nest) Nest (NestJS) is a framework for building efficient, scalable Node.js server-side applications.
+  <a href="https://github.com/nestjs/nest" target="blank">Nest</a> (NestJS) is a framework for building efficient, scalable Node.js server-side applications.
 </p>
 
 <p align="center">
