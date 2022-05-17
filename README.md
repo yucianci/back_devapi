@@ -13,7 +13,7 @@
   Tecnologias usada para o banco de dados: MongoDB (NoSQL) - conexão via cluster Atlas
 
 
-## Dados dos users
+## Dados dos users:
   ```bash
   name: string
   email: string
@@ -21,7 +21,7 @@
   deleted_at: Date | null
 ```
 
-## Dados dos conectors
+## Dados dos conectors:
   ```bash
   name: string
   type: string
@@ -35,7 +35,7 @@
 ```
 
 
-## Instalação das dependências
+## Instalação das dependências:
 
 ```bash
 $ npm i
@@ -43,7 +43,7 @@ $ npm i
 $ yarn
 ```
 
-## População dos users
+## População dos users:
 
 ```bash
 $ npx nestjs-command create:user
@@ -51,7 +51,7 @@ $ npx nestjs-command create:user
 $ yarn nestjs-command create:user
 ```
 
-## População dos conectors
+## População dos conectors:
 
 ```bash
 $ npx nestjs-command create:conector
@@ -59,7 +59,7 @@ $ npx nestjs-command create:conector
 $ yarn nestjs-command create:conector
 ```
 
-## Iniciar a aplicação
+## Iniciar a aplicação:
 
 ```bash
 $ npm start
@@ -69,7 +69,7 @@ $ yarn start
 obs: Necessário adicionar o endereço de IP da sua máquina no Cluster do banco de dados.
 ```
 
-## Iniciar a aplicação via Docker
+## Iniciar a aplicação via Docker:
 
 ```bash
 $ docker-compose up
