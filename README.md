@@ -1,5 +1,4 @@
-# 
-<p align="center">Desafio DevApi - Back-end com NodeJS</p>
+# Desafio DevApi - Back-end com NodeJS
 
 <p align="center">
   <a href="https://github.com/nestjs/nest" target="blank">Nest</a> (NestJS) is a framework for building efficient, scalable Node.js server-side applications.
@@ -13,7 +12,7 @@
 [circleci-url]: https://circleci.com/gh/nestjs/nest
 
 ## Descrição
-  Tecnologias usada para o banco de dados: MongoDB (NoSQL) - conexão via cluster Atlas
+ <p align="center"> Tecnologias usada para o banco de dados: MongoDB (NoSQL) - conexão via cluster Atlas</p>
 
 
 ## Dados dos users:
