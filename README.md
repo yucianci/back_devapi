@@ -68,7 +68,7 @@ $ npm start
 ou
 $ yarn start
 
-obs: Necessário adicionar o endereço de IP da sua máquina no Cluster do banco de dados.
+*obs: Necessário adicionar o endereço de IP da sua máquina no Cluster do banco de dados.
 ```
 
 ## Iniciar a aplicação via Docker:
@@ -76,5 +76,14 @@ obs: Necessário adicionar o endereço de IP da sua máquina no Cluster do banco
 ```bash
 $ docker-compose up
 
-obs: Necessário adicionar o endereço de IP da máquiva virtual (Docker) no Cluster do banco de dados.
+*obs: Necessário adicionar o endereço de IP da máquiva virtual (Docker) no Cluster do banco de dados.
 ```
+
+## Usuário para a autenticação:
+```bash
+  email: user@devapi.com
+  password: 123
+
+*obs: Após o token obtido através da rota de login, enviar por authorization com o tipo Bearer Token, para assim a realização de quaisquer outras requisições.
+```
+
